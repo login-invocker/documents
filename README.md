@@ -1,6 +1,6 @@
 # 1 Tạo file
 - ssh vào server
-- tạo 1 file init: nhập `cat > init` sau đó dán nội dung lênh bên dưới:
+- tạo 1 file init: nhập `cat > init` sau đó dán nội dung code bên dưới:
 
 ```sh
 sudo yum -y update
