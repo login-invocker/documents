@@ -1,5 +1,6 @@
-# documentsB1: ssh vào server
-tạo 1 file init: nhập ‘cat > init’ sau đó dán nội dung lênh bên dưới:
+# 1 
+- ssh vào server
+- tạo 1 file init: nhập `cat > init` sau đó dán nội dung lênh bên dưới:
 
 ```sh
 sudo yum -y update
