@@ -1,4 +1,4 @@
-# 1 
+# 1 Tạo file
 - ssh vào server
 - tạo 1 file init: nhập `cat > init` sau đó dán nội dung lênh bên dưới:
 
