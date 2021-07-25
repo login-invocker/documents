@@ -27,7 +27,7 @@ sudo yum -y install git
 
 
 
-2- Cấp quyền thực thi cho file:
+# 2  Cấp quyền thực thi cho file:
 
 ```sh
  chmod 765 init 
@@ -35,7 +35,7 @@ sudo yum -y install git
 
 [ với init là tên file vừa tạo]
 
-3 - run file
+# 3  run file
 
 ```sh
 ./init
