@@ -40,3 +40,5 @@ sudo yum -y install git
 ```sh
 ./init
 ```
+
+# 4 clone code and run docker.
