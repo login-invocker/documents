@@ -24,7 +24,7 @@ sudo systemctl enable /usr/lib/systemd/system/docker.service
 sudo yum -y install git
 
 ```
-
+- `crtl + d` hoắc `crtl + c` để save file.
 
 
 # 2  Cấp quyền thực thi cho file:
